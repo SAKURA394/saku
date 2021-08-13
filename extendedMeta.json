@@ -22,9 +22,9 @@
             "vat_id": "GB123456789"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "",
+            "server": "AWS Lightsail.16GB RAM,4vCPUs,320GB SSD.",
+            "company": ""
         }
     },
     "my-pool-ids": {

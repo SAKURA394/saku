@@ -15,8 +15,7 @@
         },
         "about": {
             "me": "SAKURA ADA POOL was built in Japan. We strive to maximise your return on stake. 皆様のステーキングに貢献できるようプール運営を頑張ります!",
-            "server": "AWS Lightsail.16GB RAM,4vCPUs,320GB SSD.",
-            "company": ""
+            "server": "AWS Lightsail.16GB RAM,4vCPUs,320GB SSD."
         }
     },
     "my-pool-ids": {
